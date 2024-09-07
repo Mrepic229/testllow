@@ -15,6 +15,7 @@ public class Main {
 
     }
 
+
     static int pickMode() {
         System.out.println("pick a mode");
         System.out.println("1) quiz a deck");
